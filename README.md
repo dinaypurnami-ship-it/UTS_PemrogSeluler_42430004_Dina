@@ -14,14 +14,14 @@ Aplikasi ini dibangun untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah Pem
 - Menggunakan perulangan `For Loop` untuk mencetak daftar absen/lembar penilaian secara otomatis.
 
 ## Screenshot Aplikasi
-*(Catatan: Ganti teks di dalam kurung siku dengan link URL gambar screenshot aplikasi Anda)*
+*(login_potrait.jpeg)*
 
 ### 1. Halaman Login (Responsif)
 | Mode Portrait | Mode Landscape |
 | :---: | :---: |
-| ![Login Portrait](masukkan_link_gambar_portrait_disini.jpg) | ![Login Landscape](masukkan_link_gambar_landscape_disini.jpg) |
+| ![Login Portrait](login_potrait.jpeg) | ![Login Landscape](login_lanscape.jpeg) |
 
 ### 2. Halaman Panel Generator
 | Input Data | Hasil Generate (If-Else & Loop) |
 | :---: | :---: |
-| ![Panel Input](masukkan_link_gambar_input_disini.jpg) | ![Panel Output](masukkan_link_gambar_output_disini.jpg) |
+| ![Panel Input](panel_input.jpeg) | ![Panel Output](panel_output.jpeg) |
